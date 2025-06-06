@@ -13,7 +13,7 @@ We'll launch an EC2 instances, then control who has access to it by creating som
 * 👩‍👩‍👧‍👧 User Groups and IAM Users 
 
 
-## Step 1 - Launch EC2 instances: 
+## Step One - Launch EC2 instances: 
 * Login to AWS Managemnt Console https://signin.aws.amazon.com/signup?request_type=register.
 * Open your EC2 console - search for it at the search bar.
 ![Screen Shot 2025-05-26 at 5 30 51 PM](https://github.com/user-attachments/assets/429e412f-1a82-4778-b4e6-062e1b707d8e)
@@ -43,10 +43,10 @@ An AMI is a template that contains the software configuration (operating system,
 
 
 
-## Step 2 - Create IAM Policies:
+## Step Two - Create IAM Policies:
 
-## Step 3 - Create User Groups and IAM Users:
+## Step Three - Create User Groups and IAM Users:
 
-## Step 4 - Check to See User Can Delete EC2 instance:
+## Step Four - Check to See User Can Delete EC2 instance:
 
-## Step 5 - Wrap Up:
+## Step Five - Wrap Up:
